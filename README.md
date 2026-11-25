@@ -16,9 +16,9 @@
 
 ---
 
-I designed, built and published Court Companion on my own. I started it in December 2025, released it on the App Store in March 2026, and kept shipping updates after that. This repo is a showcase: the screenshots, what the app does and how it's built.
+I designed and built Court Companion on my own as a freelance developer for the **National Bar Council of South Africa**. I started it in December 2025, released it on the App Store in March 2026, and kept shipping updates after that. This repo is a showcase: the screenshots, what the app does and how it's built.
 
-> **About the source code:** this is a paid app that's live on the App Store, so the code is in a private repository. I'm happy to walk through it on a call or in an interview.
+> **About the source code:** this is client work for the National Bar Council of South Africa and it's live on the App Store, so the code is in a private repository. I'm happy to walk through it on a call or in an interview.
 
 ## The problem
 
@@ -104,9 +104,9 @@ A few decisions worth mentioning:
 
 ## What I did
 
-Everything, from idea to App Store:
+I was the only developer, from the Bar Council's brief to the App Store:
 
-- Planned the features and designed the screens, starting in December 2025
+- Took the brief, planned the features and designed the screens, starting in December 2025
 - Built the app in React Native and set up Firebase sign-in and the database
 - Handled the App Store side: the developer account, signing, the store listing and screenshots, the privacy details, and getting through Apple's review
 - Released the first version in March 2026 and shipped updates through version 1.2.8 in May 2026, using EAS for builds and over-the-air updates
@@ -120,4 +120,6 @@ Everything, from idea to App Store:
 
 ## About
 
-Built by **Charné Janse van Rensburg** (ST10089153).
+Built by **Charné Janse van Rensburg** (ST10089153) for the National Bar Council of South Africa.
+
+Portfolio: [st10089153.github.io](https://st10089153.github.io)
