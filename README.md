@@ -16,7 +16,7 @@
 
 ---
 
-I designed and built Court Companion on my own as a freelance developer for the **National Bar Council of South Africa**. I started it in December 2025, released it on the App Store in March 2026, and kept shipping updates after that. This repo is a showcase: the screenshots, what the app does and how it's built.
+I was the only developer on Court Companion, which I designed and built as a freelancer for the **National Bar Council of South Africa**. I started it in December 2025, released it on the App Store in March 2026, and kept shipping updates after that. This repo is a showcase: the screenshots, what the app does and how it's built.
 
 > **About the source code:** this is client work for the National Bar Council of South Africa and it's live on the App Store, so the code is in a private repository. I'm happy to walk through it on a call or in an interview.
 
